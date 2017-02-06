@@ -1,0 +1,3 @@
+Separate COmpilation
+
+addroutines.h and addroutines.cpp have adding routines. Main.cpp uses them. This code

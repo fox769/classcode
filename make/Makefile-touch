@@ -1,0 +1,6 @@
+one: two
+	@echo "Doing target one"
+
+two:
+	@echo "updating time stamp on target two"
+	@touch two

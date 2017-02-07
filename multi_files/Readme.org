@@ -1,3 +1,3 @@
-Separate COmpilation
+* Separate Compilation
 
-addroutines.h and addroutines.cpp have adding routines. Main.cpp uses them. This code
+addroutines.h and addroutines.cpp have adding routines. Main.cpp usese them.This code

@@ -1,7 +1,6 @@
-
 #include <iostream>
 
-int add2(int a, int b); /*its goin to take 2 integers and returns 2 */
+int add2(int , int );
 
 int main()
 {

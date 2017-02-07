@@ -1,0 +1,18 @@
+one:
+	@echo "This is target one"
+	@echo "and it's running two commands at this target"
+
+two:
+	@echo "This is target two"
+
+threea: threeb threec
+	@echo "this is target three a"
+
+threeb:
+	@echo "this is target three b"
+
+threec: threed
+	@echo "This is target three c"
+
+threed:
+	@echo "this is target three d"
